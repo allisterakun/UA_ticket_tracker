@@ -1,0 +1,7 @@
+# secrets and local config
+.env
+config.yaml
+# runtime state
+data/
+__pycache__/
+*.pyc
